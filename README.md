@@ -42,7 +42,6 @@ Follow step-by-step guides to learn how to use Cross River APIs in real-world sc
 
 
 # Cross River Postman Collection
-Cross River Postman Collection
 
 ## Table of Contents
 - [Cross River Postman Collection](#cross-river-postman-collection)
@@ -51,7 +50,7 @@ Cross River Postman Collection
 - [Configure Your Postman Environment](#configure-your-postman-environment)
 - [Modify Requests](#modify-requests)
 
-## Cross River Postman Collection
+## Introduction
 
 To make development easier, we’ve put together a [**Postman collection**](https://www.postman.com/cross-river/cross-river-apis/overview) with pre-built requests for all the Cross River [**APIs intro**](docId\:sfnHqbapK4Sg6QBZw9P8y). Use this collection to explore, test, and build your integration directly in Postman with minimal extra coding and setup required.
 
